@@ -1,0 +1,26 @@
+<themes>
+	<theme>
+		<name>Barb</name>
+		<background>bg_barb.jpg</background>
+		<forecolor>Yellow</forecolor>
+		<backcolor>Transparent</backcolor>
+	</theme>
+	<theme>
+		<name>One</name>
+		<background>bg_one.jpg</background>
+		<forecolor>Yellow</forecolor>
+		<backcolor>Transparent</backcolor>
+	</theme>
+	<theme>
+		<name>Two</name>
+		<background>bg_two.jpg</background>
+		<forecolor>Red</forecolor>
+		<backcolor>Transparent</backcolor>
+	</theme>
+	<theme>
+		<name>Scenery</name>
+		<background>bg_scenery.jpg</background>
+		<forecolor>Yellow</forecolor>
+		<backcolor>Transparent</backcolor>
+	</theme>
+</themes>
