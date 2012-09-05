@@ -3,13 +3,13 @@
   <Profiles />
   <Settings>
     <Setting Name="Username" Type="System.String" Scope="User">
-      <Value Profile="(Default)">zzattack</Value>
+      <Value Profile="(Default)"></Value>
     </Setting>
     <Setting Name="Password" Type="System.String" Scope="User">
-      <Value Profile="(Default)">zz4tt4cK</Value>
+      <Value Profile="(Default)"></Value>
     </Setting>
     <Setting Name="Channel" Type="System.String" Scope="User">
-      <Value Profile="(Default)">zzattack</Value>
+      <Value Profile="(Default)"></Value>
     </Setting>
     <Setting Name="ThemeIdx" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
